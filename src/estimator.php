@@ -3,7 +3,6 @@
 $data = $_POST;
 // return (challenge($data));
 
-header('Location: /Results.php');
 
 
 function covid19ImpactEstimator($data)
